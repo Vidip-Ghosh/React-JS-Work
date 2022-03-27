@@ -1,0 +1,12 @@
+*{
+  background-color: aquamarine;
+}
+.Time{
+  box-sizing: border-box;
+  border: 2px solid;
+  position: relative;
+  text-align: center;
+  top: 270px;
+  font-size: 100px;
+  background-color: white;
+}
